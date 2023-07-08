@@ -1,0 +1,9 @@
+.encabezado__nombre{
+  font-family: 'Abhaya Libre', serif;
+  font-size: 2.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.75rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
