@@ -1,4 +1,7 @@
-.sobreMi__titulo.css{
+.sobreMi__titulo{
   font-family: 'Montserrat Alternates', sans-serif;
   text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2rem;
+  padding: 0 1rem;
 }

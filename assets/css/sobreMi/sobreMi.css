@@ -3,5 +3,6 @@
   background: #e0d8b0;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  height: 75vh;
 }
