@@ -1,0 +1,5 @@
+.skills__logos{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
