@@ -1,0 +1,9 @@
+.skills__titulo{
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  font-size: 2.5rem;
+  letter-spacing: 0.75rem;
+  padding-bottom: 7.75rem;
+}
