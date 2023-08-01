@@ -1,0 +1,15 @@
+.submit__cabecera-item{
+  text-decoration: none;
+  text-transform: none;
+  font-size: 1.75rem;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: black;
+}
+.submit__cabecera-item:hover{
+  transition: .7s;
+  font-size: 2rem;
+}
+.submit__cabecera-item:active{
+  transition: .5s;
+  font-size: 0.75rem;
+}
