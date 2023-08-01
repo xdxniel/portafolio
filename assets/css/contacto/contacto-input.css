@@ -1,0 +1,8 @@
+.contacto__input{
+  border-radius: 5px;
+  font-size: 1.12rem;
+  font-family: 'Abahaya Libre', serif;
+}
+.contacto__input::selection{
+  background: #e0d8b0;
+}

@@ -1,0 +1,9 @@
+.contacto__form-send{
+  display: flex;
+  flex-direction: column;
+  padding-top: 1.12rem;
+}
+
+textarea{
+  margin-bottom: 1rem;
+}
