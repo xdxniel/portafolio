@@ -126,7 +126,7 @@
         <h3 class="contacto__subtext">¿Quieres tener contacto conmigo?</h3><br>
         <h3 class="contacto__subtext">Por favor completa el siguiente formulario</h3>
         <div class="contacto__row">
-          <form class="col-xs-4 col-xs-offset-4" id="form" method="POST">
+          <form class="col-xs-4 col-xs-offset-4" id="form">
             <div class="contacto__form">
               <input class="contacto__input" type="text" name="name" id="name" required autocomplete="off" placeholder="Tyler Durden">
               <label class="contacto__label">Nombre</label>
@@ -141,10 +141,8 @@
             </div>
             <div class="contacto__form-send">
               <textarea class="contacto__input" rows="5" cols="40" name="message" id="mensaje" placeholder="Escribe tu mensaje aquí" required></textarea>
-              <button type="submit" class="contacto__boton hvr-bounce-in">enviar</button>
+              <button type="submit" class="contacto__boton hvr-bounce-in"><a href="submit.html" style="text-decoration: none; color: black;">enviar</a></button>
             </div>
-            <!-- este esl input donde aparece que se envio la informacion -->
-            <input type="hidden" name="_next" value="">
           </form>
         </div>
       </section>
