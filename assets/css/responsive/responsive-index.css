@@ -1,0 +1,80 @@
+@media screen and (max-width:920px) {
+  .sobreMi__titulo{
+    font-size: 1.95rem;
+  }
+  .sobreMi__parrafo{
+    font-size: 1.457rem;
+  }
+  .hobbies{
+    padding-top: 2.5rem;
+    height: 50vh;
+  }
+  .hobbies__titulo{
+    font-size: 1.95rem
+  }
+  .hobbies__icons{
+    padding-top: 7rem;
+  }
+  .hobbies__icons-logos{
+    width: 5rem;
+  }
+  .formacion__titulo{
+    font-size: 1.95rem;
+    padding-bottom: 1.55rem;
+  }
+  .formacion__academica{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    padding-top: 1rem;
+  }
+  .formacion__logo-alura{
+    width: 9rem;
+    padding-bottom: 1rem;
+    padding-left: 4rem;
+  }
+  .formacion__logo-unad{
+    width: 10rem;
+    padding-left: 9rem;
+  }
+  .skills{
+    padding-top: 2rem;
+    width: 100%;
+    height: 45vh;
+  }
+  .skills__titulo{
+    font-size: 1.95rem;
+    padding-bottom: 6rem;
+  }
+  .skills__logo-svg{
+    width: 8rem;
+    height: 8rem;
+  }
+  .proyectos{
+    background: #e0d8b0;
+    padding-top: 2.5rem;
+    padding-bottom: 1.75rem;
+    width: 100%;
+    height: 40vh;
+  }
+  .proyectos__titulo{
+    font-size: 1.95rem;
+    padding-top: 1rem;
+    padding-bottom: 1.75rem;
+  }
+  .contacto__titulo{
+    font-size: 1.95rem;
+  }
+  .contacto__label{
+    font-size: 1.35rem;
+  }
+  .contacto__input{
+    font-size: 1.02rem;
+  }
+  .footerpage__desarrollo-daniel{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+}
